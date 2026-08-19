@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-08-19T03:06:53.590345Z",
+  "table": "data\\processed\\analytic_table.parquet",
+  "n_rows": 32593,
+  "checks": [
+    {
+      "check": "gender_representation",
+      "success": true,
+      "detail": {
+        "M": 0.548,
+        "F": 0.452
+      }
+    },
+    {
+      "check": "disability_representation",
+      "success": true,
+      "detail": {
+        "N": 0.903,
+        "Y": 0.097
+      }
+    },
+    {
+      "check": "age_band_representation",
+      "success": true,
+      "detail": {
+        "0-35": 0.704,
+        "35-55": 0.289,
+        "55<=": 0.007
+      }
+    },
+    {
+      "check": "imd_band_representation",
+      "success": true,
+      "detail": {
+        "20-30%": 0.112,
+        "30-40%": 0.109,
+        "10-20": 0.108,
+        "0-10%": 0.102,
+        "40-50%": 0.1,
+        "50-60%": 0.096,
+        "60-70%": 0.089,
+        "70-80%": 0.088,
+        "80-90%": 0.085,
+        "90-100%": 0.078,
+        "?": 0.034
+      }
+    }
+  ],
+  "n_checks": 4,
+  "n_flagged": 0
+}

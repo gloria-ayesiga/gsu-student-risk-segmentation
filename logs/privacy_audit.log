@@ -1,0 +1,1 @@
+{"timestamp": "2026-08-19T03:05:11.466366Z", "event": "pipeline_complete", "output": "data\\processed\\analytic_table.parquet", "rows": 32593, "dataset": "OULAD", "project": "GSU Student Risk Segmentation"}
