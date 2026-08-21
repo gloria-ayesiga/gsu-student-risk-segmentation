@@ -1,7 +1,7 @@
 
 """
 Prefect ETL Flow for OULAD Student Risk Segmentation Pipeline
-Georgia State University Capstone – Module 3
+Data Analytics Capstone – Module 3
 Student: Gloria Ayesiga
 
 This flow implements the stages defined in the Module 3 pipeline:
