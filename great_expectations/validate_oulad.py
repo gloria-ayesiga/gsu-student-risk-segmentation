@@ -2,7 +2,7 @@
 
 """
 Simple representation-bias detection suite for the OULAD analytic table.
-Georgia State University Capstone – Module 3
+Data Analytics Capstone – Module 3
 Student: Gloria Ayesiga
 
 Checks whether key demographic groups are reasonably represented
